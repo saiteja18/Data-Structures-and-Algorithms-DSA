@@ -1,15 +1,16 @@
 # Data-Structures-and-Algorithms-DSA-
 
-**Introduction:**
+## Introduction:
 This repository serves as a collection of Python implementations of commonly used data structures and algorithms. Each component is implemented in a modular and reusable manner, making it easy to understand and integrate into other projects.
 
-**Data Structures:**
+## Data Structures:
 
-**Linked List
-**
-**Singly Linked List**: Implements a singly linked list with methods for insertion, deletion, and traversal.
-**Doubly Linked List**: Implements a doubly linked list with methods for insertion, deletion, and traversal.
-**Binary Search Tree**
+### Linked List
+#### Singly Linked List: 
+Implements a singly linked list with methods for insertion, deletion, and traversal.
+#### Doubly Linked List: 
+Implements a doubly linked list with methods for insertion, deletion, and traversal.
+### Binary Search Tree
 Binary Search Tree: Implements a binary search tree with methods for insertion, search, and various traversal algorithms.
 Stack
 Stack: Implements a stack data structure with methods for push, pop, and printing.
